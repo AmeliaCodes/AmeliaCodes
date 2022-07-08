@@ -1,11 +1,11 @@
 
 ### Hello There 👋
 
-## I'm Josh Mollen!
+## I'm Amelia!
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; I am a aspiring Java and C# developer!
+- 🤔 &nbsp; I am a aspiring Java and Kotlin developer!
 - 🎓 &nbsp; Studying Computer Science and System Administartion!
 
 
@@ -21,9 +21,9 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MinistryCodes&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AmeliaCodes&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ministry's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MinistryCodes&theme=dark&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amelia's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmeliaCodes&theme=dark&hide_border=true" />
   
 
 <p  align="center">
